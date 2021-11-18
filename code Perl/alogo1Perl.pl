@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-print("salut\n");
+print("salut Alexandre\n");
 
 # Un tableau avec des valeurs dupliquées :
 my @t = qw(hello toto hello vous);
